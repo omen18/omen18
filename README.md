@@ -8,7 +8,9 @@
 
 
 # 💫 About Me:
-I'm Yash Raj Sharan<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js / Java<br>Database: MySQL / MongoDB<br>AI/ML: Python, Machine Learning basics, Generative AI
+I'm Yash Raj Sharan
+
+  🎓 Student at SRM IST Kattankulathur,Chennai<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js / Java<br>Database: MySQL / MongoDB<br>AI/ML: Python, Machine Learning basics, Generative AI
 
 
 ## 🌐 Socials:
