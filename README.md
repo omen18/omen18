@@ -2,11 +2,10 @@
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="30px">
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVoZWtxcmlkNXNnM3RqaHZiMHlvamxjMmp0aG5mem9sYms0MjJ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600" height="300"/>
-</div>
 
 # 💫 About Me:
 I'm Yash Raj Sharan<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js / Java<br>Database: MySQL / MongoDB<br>AI/ML: Python, Machine Learning basics, Generative AI
