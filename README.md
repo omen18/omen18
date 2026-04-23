@@ -27,7 +27,6 @@ to my personal GitHub profile!
 I'm Yash Raj Sharan
 
   🎓 Student at SRM IST Kattankulathur,Chennai<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>
-
 Languages: JavaScript, Python, Java, Rust, Swift  
 Frontend: HTML, CSS, React  
 Backend & Systems: Node.js, Java, Rust  
