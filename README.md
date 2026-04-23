@@ -26,8 +26,14 @@ to my personal GitHub profile!
 # 💫 About Me:
 I'm Yash Raj Sharan
 
-  🎓 Student at SRM IST Kattankulathur,Chennai<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js / Java<br>Database: MySQL / MongoDB<br>AI/ML: Python, Machine Learning basics, Generative AI
+  🎓 Student at SRM IST Kattankulathur,Chennai<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>
 
+Languages: JavaScript, Python, Java, Rust, Swift  
+Frontend: HTML, CSS, React  
+Backend & Systems: Node.js, Java, Rust  
+Database: MySQL / MongoDB  
+AI/ML: Python, Machine Learning, Generative AI  
+Mobile Development: Swift (iOS)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yash.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealyash.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealyash_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yr6060602@gmail.com) 
