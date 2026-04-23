@@ -2,6 +2,25 @@
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+
+  <div align="center">
+to my personal GitHub profile!
+</div>
+
+<h3 align="center">
+<a href="https://yash-portfolio-ktf4.vercel.app/">Visit my personal homepage
+<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
+</div>
+
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="30px">
@@ -52,7 +71,29 @@ I'm Yash Raj Sharan
 [![](https://komarev.com/ghpvc/?username=omen18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </p>
-   
+
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div>   
    
 <br />
 
