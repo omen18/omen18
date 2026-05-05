@@ -24,15 +24,76 @@ to my personal GitHub profile!
 
 
 # 💫 About Me:
-I'm Yash Raj Sharan
+## 👋 I'm Yash Raj Sharan  
 
-  🎓 Student at SRM IST Kattankulathur,Chennai<br><br>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on AI/ML and Generative AI.<br>I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.<br>🔹 What I Do<br>Develop end-to-end web applications (frontend + backend)<br>Design APIs and manage databases<br>Explore and implement AI/ML solutions<br>Build applications leveraging Generative AI<br>🛠️ Tech Stack<br>
-Languages: JavaScript, Python, Java, Rust, Swift  
-Frontend: HTML, CSS, React  
-Backend & Systems: Node.js, Java, Rust  
-Database: MySQL / MongoDB  
-AI/ML: Python, Machine Learning, Generative AI  
-Mobile Development: Swift (iOS)
+🎓 Student at SRM IST, Kattankulathur, Chennai  
+
+I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on **AI/ML and Generative AI**.  
+I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.  
+
+---
+
+### 🔹 What I Do  
+- Develop end-to-end web applications (frontend + backend)  
+- Design APIs and manage databases  
+- Explore and implement AI/ML solutions  
+- Build applications leveraging Generative AI  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** TypeScript, JavaScript, Python, Java, Rust, Swift  
+**Frontend:** HTML, CSS, React  
+**Backend & Systems:** Node.js, Java, Rust  
+**Database:** MySQL, MongoDB  
+**AI/ML:** Python, Machine Learning, Generative AI  
+**Mobile Development:** Swift (iOS)  
+
+---
+
+### 🔭 Currently Working On  
+- Fine-tuning multilingual LLMs (Gemma) across English, Hindi, and Marathi datasets  
+- Designing an AI-driven Smart Diagnosis System using intent classification  
+- Building a Food Reaction Intelligence App powered by AI and user behavior data  
+- Exploring real-world AI applications in healthcare and personalization  
+
+---
+
+### 👯 Open to Collaborate On  
+- AI/ML projects focused on NLP, LLMs, and real-world datasets  
+- LangChain-based systems (RAG pipelines, AI agents, conversational apps)  
+- AI-powered mobile applications using Swift  
+- Open-source AI initiatives for social impact  
+
+---
+
+### 🤝 Seeking Guidance In  
+- Advanced LLM fine-tuning and evaluation strategies  
+- Scaling AI systems for real-time production environments  
+- Improving multilingual NLP model performance  
+- Deployment of AI systems (APIs, backend, mobile integration)  
+
+---
+
+### 🌱 Currently Learning  
+- LangChain and LLM orchestration  
+- LSTMs and sequence-based deep learning models  
+- Advanced NLP techniques, embeddings, and vector databases  
+- MLOps fundamentals and deployment pipelines  
+- AI integration in iOS applications using Swift  
+
+---
+
+### 💬 Ask Me About  
+- Machine Learning and AI fundamentals  
+- NLP, intent classification, and chatbot development  
+- Building AI-powered applications end-to-end  
+- Design thinking and scalable tech solutions  
+
+---
+
+### ⚡ Fun Fact  
+- I enjoy transforming complex AI concepts into real-world applications 🚀  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yash.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealyash.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealyash_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yr6060602@gmail.com) 
