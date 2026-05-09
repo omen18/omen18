@@ -52,10 +52,11 @@ I enjoy building scalable web applications and integrating intelligent systems t
 ---
 
 ### 🔭 Currently Working On  
-- Fine-tuning multilingual LLMs (Gemma) across English, Hindi, and Marathi datasets  
-- Designing an AI-driven Smart Diagnosis System using intent classification  
-- Building a Food Reaction Intelligence App powered by AI and user behavior data  
-- Exploring real-world AI applications in healthcare and personalization  
+Building LLM-powered agents and RAG pipelines
+Designing evaluation frameworks for production AI systems
+Full-stack AI products from training pipeline to UI
+Exploring multimodal and agentic workflows
+
 
 ---
 
