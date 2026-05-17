@@ -38,18 +38,6 @@ what_i_do: ["Develop end-to-end web applications (frontend + backend)",
              "Explore and implement AI/ML solutions",
              "Build applications leveraging Generative AI"]
 
-tech_stack:
-  languages: ["TypeScript", "JavaScript", "Python", "Java", "Rust", "Swift"]
-
-  frontend: ["HTML", "CSS", "React"]
-
-  backend_and_systems: ["Node.js", "Java", "Rust"]
-
-  database: ["MySQL", "MongoDB"]
-
-  ai_ml: ["Python", "Machine Learning", "Generative AI"]
-
-  mobile_development: ["Swift (iOS)"]
 
 fields_of_interests: ["Artificial Intelligence", "Machine Learning", "Generative AI",
                       "Full Stack Development", "NLP", "LLMs", "RAG Pipelines",
@@ -74,9 +62,8 @@ open_to_collaborate_on: ["AI/ML projects focused on NLP, LLMs, and real-world da
 
 
 hobbies: ["Football", "Gaming", "Cinema", "Exploring Cities"]
-
 fun_fact: "I enjoy transforming complex AI concepts into real-world applications 🚀"
----
+
 ```
 
 
