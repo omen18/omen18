@@ -32,69 +32,53 @@ I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMp
 I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.  
 
 ---
+```yaml
+what_i_do: ["Develop end-to-end web applications (frontend + backend)",
+             "Design APIs and manage databases",
+             "Explore and implement AI/ML solutions",
+             "Build applications leveraging Generative AI"]
 
-### 🔹 What I Do  
-- Develop end-to-end web applications (frontend + backend)  
-- Design APIs and manage databases  
-- Explore and implement AI/ML solutions  
-- Build applications leveraging Generative AI  
+tech_stack:
+  languages: ["TypeScript", "JavaScript", "Python", "Java", "Rust", "Swift"]
 
+  frontend: ["HTML", "CSS", "React"]
+
+  backend_and_systems: ["Node.js", "Java", "Rust"]
+
+  database: ["MySQL", "MongoDB"]
+
+  ai_ml: ["Python", "Machine Learning", "Generative AI"]
+
+  mobile_development: ["Swift (iOS)"]
+
+fields_of_interests: ["Artificial Intelligence", "Machine Learning", "Generative AI",
+                      "Full Stack Development", "NLP", "LLMs", "RAG Pipelines",
+                      "Agentic AI Workflows", "Robotics Innovation",
+                      "Scalable Tech Solutions"]
+
+technical_background: ["Frontend & Backend Development", "REST API Design",
+                       "Database Management", "Object-Oriented Programming",
+                       "Problem Solving", "AI-Powered Applications",
+                       "Machine Learning Fundamentals", "Intent Classification",
+                       "Chatbot Development"]
+
+currently_working_on: ["Building LLM-powered agents and RAG pipelines",
+                       "Designing evaluation frameworks for production AI systems",
+                       "Developing full-stack AI products from training pipeline to UI",
+                       "Exploring multimodal and agentic workflows"]
+
+open_to_collaborate_on: ["AI/ML projects focused on NLP, LLMs, and real-world datasets",
+                         "LangChain-based systems (RAG pipelines, AI agents, conversational apps)",
+                         "AI-powered mobile applications using Swift",
+                         "Open-source AI initiatives for social impact"]
+
+
+hobbies: ["Football", "Gaming", "Cinema", "Exploring Cities"]
+
+fun_fact: "I enjoy transforming complex AI concepts into real-world applications 🚀"
 ---
+```
 
-### 🛠️ Tech Stack  
-**Languages:** TypeScript, JavaScript, Python, Java, Rust, Swift  
-**Frontend:** HTML, CSS, React  
-**Backend & Systems:** Node.js, Java, Rust  
-**Database:** MySQL, MongoDB  
-**AI/ML:** Python, Machine Learning, Generative AI  
-**Mobile Development:** Swift (iOS)  
-
----
-
-### 🔭 Currently Working On  
-Building LLM-powered agents and RAG pipelines
-Designing evaluation frameworks for production AI systems
-Full-stack AI products from training pipeline to UI
-Exploring multimodal and agentic workflows
-
-
----
-
-### 👯 Open to Collaborate On  
-- AI/ML projects focused on NLP, LLMs, and real-world datasets  
-- LangChain-based systems (RAG pipelines, AI agents, conversational apps)  
-- AI-powered mobile applications using Swift  
-- Open-source AI initiatives for social impact  
-
----
-
-### 🤝 Seeking Guidance In  
-- Advanced LLM fine-tuning and evaluation strategies  
-- Scaling AI systems for real-time production environments  
-- Improving multilingual NLP model performance  
-- Deployment of AI systems (APIs, backend, mobile integration)  
-
----
-
-### 🌱 Currently Learning  
-- LangChain and LLM orchestration  
-- LSTMs and sequence-based deep learning models  
-- Advanced NLP techniques, embeddings, and vector databases  
-- MLOps fundamentals and deployment pipelines  
-- AI integration in iOS applications using Swift  
-
----
-
-### 💬 Ask Me About  
-- Machine Learning and AI fundamentals  
-- NLP, intent classification, and chatbot development  
-- Building AI-powered applications end-to-end  
-- Design thinking and scalable tech solutions  
-
----
-
-### ⚡ Fun Fact  
-- I enjoy transforming complex AI concepts into real-world applications 🚀  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yash.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealyash.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealyash_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yr6060602@gmail.com) 
@@ -115,7 +99,20 @@ Exploring multimodal and agentic workflows
 
 <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   
+ 
+  
+  📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   14 hrs 39 mins        ████████████████████░░░░░   79.58 %
+JSON         40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Python       37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+CSS          34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other        33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+```
+
+<!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
