@@ -10,64 +10,20 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="30px">
 
 
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-
-  <div align="center">
-to my personal GitHub profile!
-</div>
-
-<h3 align="center">
-<a href="https://yash-portfolio-ktf4.vercel.app/">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
 
 
-# 💫 About Me:
-## 👋 I'm Yash Raj Sharan  
 
-🎓 Student at SRM IST, Kattankulathur, Chennai  
+# About Me:
+## I'm Yash Raj Sharan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a growing focus on **AI/ML and Generative AI**.  
-I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Full+Stack+Developer;Building+with+AI%2FML+%2B+LLMs;Creating+production-grade+intelligent+systems" alt="Typing SVG" />
+<br><br>
 
----
-```yaml
-what_i_do: ["Develop end-to-end web applications (frontend + backend)",
-             "Design APIs and manage databases",
-             "Explore and implement AI/ML solutions",
-             "Build applications leveraging Generative AI"]
+I am an an AI Engineer & Full Stack Developer with a growing focus on AI/ML, LLMs and Generative AI. I enjoy building scalable web applications and integrating intelligent systems to solve real-world problems.  
 
 
-fields_of_interests: ["Artificial Intelligence", "Machine Learning", "Generative AI",
-                      "Full Stack Development", "NLP", "LLMs", "RAG Pipelines",
-                      "Agentic AI Workflows", "Robotics Innovation",
-                      "Scalable Tech Solutions"]
 
-technical_background: ["Frontend & Backend Development", "REST API Design",
-                       "Database Management", "Object-Oriented Programming",
-                       "Problem Solving", "AI-Powered Applications",
-                       "Machine Learning Fundamentals", "Intent Classification",
-                       "Chatbot Development"]
-
-currently_working_on: ["Building LLM-powered agents and RAG pipelines",
-                       "Designing evaluation frameworks for production AI systems",
-                       "Developing full-stack AI products from training pipeline to UI",
-                       "Exploring multimodal and agentic workflows"]
-
-open_to_collaborate_on: ["AI/ML projects focused on NLP, LLMs, and real-world datasets",
-                         "LangChain-based systems (RAG pipelines, AI agents, conversational apps)",
-                         "AI-powered mobile applications using Swift",
-                         "Open-source AI initiatives for social impact"]
-
-
-hobbies: ["Football", "Gaming", "Cinema", "Exploring Cities"]
-fun_fact: "I enjoy transforming complex AI concepts into real-world applications 🚀"
-
-```
-
-
-## 🌐 Socials:
+##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yash.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealyash.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealyash_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yr6060602@gmail.com) 
 
 <!-- Snake Game Repo View -->
@@ -76,7 +32,7 @@ fun_fact: "I enjoy transforming complex AI concepts into real-world applications
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### - What i do
@@ -87,34 +43,27 @@ fun_fact: "I enjoy transforming complex AI concepts into real-world applications
 <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
  
-  
-  📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript   14 hrs 39 mins        ████████████████████░░░░░   79.58 %
-JSON         40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Python       37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-CSS          34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other        33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-```
+#  GitHub Stats:
 
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=omen18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omen18&theme=dark&hide_border=false" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omen18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+###  Random Dev Quote
+<h2 align="center"> Random Dev Quote</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 
-
-<h2 align="center">🤝 Support</h2>
+<h2 align="center"> Support</h2>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
