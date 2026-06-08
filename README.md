@@ -56,7 +56,6 @@ I am an an AI Engineer & Full Stack Developer with a growing focus on AI/ML, LLM
 </p>
 
 ###  Random Dev Quote
-<h2 align="center"> Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
