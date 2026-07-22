@@ -23,8 +23,15 @@ I am an an AI Engineer & Full Stack Developer with a growing focus on AI/ML, LLM
 
 
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yash.17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/therealyash.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraj10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/therealyash_17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yr6060602@gmail.com) 
+## 📫 Connect With Me
+<hr/>
+
+<p align="center">
+  <a href="mailto:yr6060602@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yashraj10"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/omen18"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/omen18"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 <!-- Snake Game Repo View -->
 
