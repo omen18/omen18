@@ -47,12 +47,12 @@ I am an an AI Engineer & Full Stack Developer with a growing focus on AI/ML, LLM
 #  GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60&t=2026" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60&t=2026" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=60&t=20260723_v2" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=60&t=20260723_v2" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omen18&theme=dark&hide_border=false&date_format=M%20j%2C%20Y&cache_seconds=60&t=2026" />
+  <img src="https://streak-stats.demolab.com/?user=omen18&theme=dark&hide_border=false&date_format=M%20j%2C%20Y&cache_seconds=60&t=20260723_v2" />
 </p>
 
 ###  Random Dev Quote
