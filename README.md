@@ -64,20 +64,26 @@ $ cat yash_profile.sys
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33.3%">
-        <img src="./assets/badges/gssoc-2026-ai-agents.png" width="130" alt="GSSoC 2026 AI Agents Track" /><br />
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-2026-ai-agents.png" width="115" alt="GSSoC 2026 AI Agents Track" /><br />
         <b>GSSoC 2026</b><br/>
         <sub>AI AGENTS TRACK</sub><br/>
         <small>Build • Automate • Deploy</small>
       </td>
-      <td align="center" width="33.3%">
-        <img src="./assets/badges/gssoc-2026-contributor.png" width="130" alt="GSSoC 2026 Contributor" /><br />
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-2026-hybrid.png" width="115" alt="GSSoC 2026 Hybrid Contributor" /><br />
+        <b>GSSoC 2026</b><br/>
+        <sub>HYBRID CONTRIBUTOR</sub><br/>
+        <small>Global Contributor Track</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-2026-contributor.png" width="115" alt="GSSoC 2026 Contributor" /><br />
         <b>GSSoC 2026</b><br/>
         <sub>CONTRIBUTOR</sub><br/>
         <small>Build • Contribute • Ship</small>
       </td>
-      <td align="center" width="33.3%">
-        <img src="./assets/badges/gssoc-2026-collaborator.png" width="130" alt="GSSoC 2026 Collaborator" /><br />
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-2026-collaborator.png" width="115" alt="GSSoC 2026 Collaborator" /><br />
         <b>GSSoC 2026</b><br/>
         <sub>COLLABORATOR</sub><br/>
         <small>Open Source Community</small>
