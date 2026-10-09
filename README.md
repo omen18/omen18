@@ -59,8 +59,35 @@ $ cat yash_profile.sys
 
 ---
 
+### 🏆 Open Source Milestones & Badges
 
-### 📊 GitHub & Coding Analytics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-badge-first_steps.png" width="95" alt="First Steps" /><br />
+        <b>First Steps</b><br/>
+        <sub>Applied to GSSoC 2026</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-badge-discord_verified.png" width="95" alt="Discord Verified" /><br />
+        <sub>Discord Verified</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-badge-profile_complete.png" width="95" alt="Profile Complete" /><br />
+        <b>Profile Complete</b><br/>
+        <sub>Profile Verified</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="./assets/badges/gssoc-badge-role_contributor.png" width="95" alt="Code Warrior" /><br />
+        <b>Code Warrior</b><br/>
+        <sub>Contributor Milestone</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=omen18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="175" alt="GitHub Stats" />
