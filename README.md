@@ -86,25 +86,16 @@ $ cat yash_profile.sys
   </table>
 
   <details>
-    <summary><b>🎯 View GSSoC Onboarding & Milestones</b></summary>
+    <summary><b>🎯 View GSSoC Onboarding Milestones</b></summary>
     <br/>
     <table>
       <tr>
-        <td align="center" width="25%">
+        <td align="center" width="50%">
           <img src="./assets/badges/gssoc-badge-first_steps.png" width="90" alt="First Steps" /><br />
           <b>First Steps</b><br/>
           <sub>Applied to GSSoC 2026</sub>
         </td>
-        <td align="center" width="25%">
-          <img src="./assets/badges/gssoc-badge-discord_verified.png" width="90" alt="Discord Verified" /><br />
-          <sub>Discord Verified</sub>
-        </td>
-        <td align="center" width="25%">
-          <img src="./assets/badges/gssoc-badge-profile_complete.png" width="90" alt="Profile Complete" /><br />
-          <b>Profile Complete</b><br/>
-          <sub>Profile Verified</sub>
-        </td>
-        <td align="center" width="25%">
+        <td align="center" width="50%">
           <img src="./assets/badges/gssoc-badge-role_contributor.png" width="90" alt="Code Warrior" /><br />
           <b>Code Warrior</b><br/>
           <sub>Contributor Milestone</sub>
