@@ -59,29 +59,79 @@ $ cat yash_profile.sys
 
 ---
 
-### 🏆 Open Source Milestones & Badges
+### 🏆 Open Source Badges & Milestones
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="./assets/badges/gssoc-badge-first_steps.png" width="95" alt="First Steps" /><br />
-        <b>First Steps</b><br/>
-        <sub>Applied to GSSoC 2026</sub>
+      <td align="center" width="33.3%">
+        <img src="./assets/badges/gssoc-2026-ai-agents.png" width="130" alt="GSSoC 2026 AI Agents Track" /><br />
+        <b>GSSoC 2026</b><br/>
+        <sub>AI AGENTS TRACK</sub><br/>
+        <small>Build • Automate • Deploy</small>
       </td>
-      <td align="center" width="25%">
-        <img src="./assets/badges/gssoc-badge-discord_verified.png" width="95" alt="Discord Verified" /><br />
-        <sub>Discord Verified</sub>
+      <td align="center" width="33.3%">
+        <img src="./assets/badges/gssoc-2026-contributor.png" width="130" alt="GSSoC 2026 Contributor" /><br />
+        <b>GSSoC 2026</b><br/>
+        <sub>CONTRIBUTOR</sub><br/>
+        <small>Build • Contribute • Ship</small>
       </td>
-      <td align="center" width="25%">
-        <img src="./assets/badges/gssoc-badge-profile_complete.png" width="95" alt="Profile Complete" /><br />
-        <b>Profile Complete</b><br/>
-        <sub>Profile Verified</sub>
+      <td align="center" width="33.3%">
+        <img src="./assets/badges/gssoc-2026-collaborator.png" width="130" alt="GSSoC 2026 Collaborator" /><br />
+        <b>GSSoC 2026</b><br/>
+        <sub>COLLABORATOR</sub><br/>
+        <small>Open Source Community</small>
       </td>
-      <td align="center" width="25%">
-        <img src="./assets/badges/gssoc-badge-role_contributor.png" width="95" alt="Code Warrior" /><br />
-        <b>Code Warrior</b><br/>
-        <sub>Contributor Milestone</sub>
+    </tr>
+  </table>
+
+  <details>
+    <summary><b>🎯 View GSSoC Onboarding & Milestones</b></summary>
+    <br/>
+    <table>
+      <tr>
+        <td align="center" width="25%">
+          <img src="./assets/badges/gssoc-badge-first_steps.png" width="90" alt="First Steps" /><br />
+          <b>First Steps</b><br/>
+          <sub>Applied to GSSoC 2026</sub>
+        </td>
+        <td align="center" width="25%">
+          <img src="./assets/badges/gssoc-badge-discord_verified.png" width="90" alt="Discord Verified" /><br />
+          <sub>Discord Verified</sub>
+        </td>
+        <td align="center" width="25%">
+          <img src="./assets/badges/gssoc-badge-profile_complete.png" width="90" alt="Profile Complete" /><br />
+          <b>Profile Complete</b><br/>
+          <sub>Profile Verified</sub>
+        </td>
+        <td align="center" width="25%">
+          <img src="./assets/badges/gssoc-badge-role_contributor.png" width="90" alt="Code Warrior" /><br />
+          <b>Code Warrior</b><br/>
+          <sub>Contributor Milestone</sub>
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+---
+
+### 📜 Verified Professional Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/badges/cisco-networking-basics.png" width="115" alt="Cisco Networking Basics" /><br />
+        <b>Cisco Networking Academy</b><br/>
+        <sub>Networking Basics</sub><br/>
+        <small>Verified Credential</small>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/badges/cisco-networking-devices-config.png" width="115" alt="Cisco Networking Devices and Initial Configuration" /><br />
+        <b>Cisco Networking Academy</b><br/>
+        <sub>Networking Devices & Initial Configuration</sub><br/>
+        <small>Verified Credential</small>
       </td>
     </tr>
   </table>
