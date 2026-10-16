@@ -118,13 +118,19 @@ $ cat yash_profile.sys
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
+        <img src="./assets/badges/aws-academy-generative-ai-foundations.png" width="115" alt="AWS Academy Generative AI Foundations" /><br />
+        <b>AWS Academy</b><br/>
+        <sub>Generative AI Foundations</sub><br/>
+        <small>Trained • Verified Credential</small>
+      </td>
+      <td align="center" width="33%">
         <img src="./assets/badges/cisco-networking-basics.png" width="115" alt="Cisco Networking Basics" /><br />
         <b>Cisco Networking Academy</b><br/>
         <sub>Networking Basics</sub><br/>
         <small>Verified Credential</small>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <img src="./assets/badges/cisco-networking-devices-config.png" width="115" alt="Cisco Networking Devices and Initial Configuration" /><br />
         <b>Cisco Networking Academy</b><br/>
         <sub>Networking Devices & Initial Configuration</sub><br/>
